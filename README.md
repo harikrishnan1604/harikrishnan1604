@@ -1,4 +1,8 @@
-<div id="header" align="center">
+
+<h1 align="center">
+  Hey There,Connect with me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1><div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -9,20 +13,29 @@
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
-<h1 align="center">
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<b>About Me</b>:Hi, I'm Harikrishnan, a final-year Electronics and Communication Engineering student at Hindusthan College of Engineering and Technology.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ # Hi, I'm Harikrishnan 👋
 
-- :seedling: Exploring Technical Content Writing.
+Welcome to my GitHub profile! I’m a recent Electronics and Communication Engineering graduate from Hindusthan College of Engineering and Technology with a strong focus on front-end development. I’m passionate about crafting intuitive and engaging web experiences and excited to contribute to innovative projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Harikrishnan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-kv-a713392a9/)
+## 🛠️ Skills
+
+- **Front-End Development:** HTML,CSS,Javascript,React.
+- **Programming languages :** Java
+- **DataBase :** MongoDB,SQL
+- **Problem-Solving:** Adept at tackling complex problems and finding creative solutions.
+
+## 📂 Projects
+
+Here are some of the projects I’ve worked on:
+
+- **[Student Marksheet]**: [ A responsive Annual Student marksheet built with HTML, CSS, and JavaScript.]
+- **[Expense tracker ]**: [ An interactive Expense tracker using javascript.]
+- **[Age calculator]**: [Am Age calculator with HTML<CSS and Javascript.]
+
+Feel free to explore my repositories to see my work in action!
 
 
 
