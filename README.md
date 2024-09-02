@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I’m a recent Electronics and Communication Engin
 
 Here are some of the projects I’ve worked on:
 
-- **[Student Marksheet]**: [ A responsive Annual Student marksheet built with HTML, CSS, and JavaScript.]
-- **[Expense tracker ]**: [ An interactive Expense tracker using javascript.]
-- **[Age calculator]**: [Am Age calculator with HTML<CSS and Javascript.]
+- **Student Marksheet**:  A responsive Annual Student marksheet built with HTML, CSS, and JavaScript.
+- **Expense tracker**:  An interactive Expense tracker using javascript.
+- **Age calculator**: Am Age calculator with HTML<CSS and Javascript.
 
 Feel free to explore my repositories to see my work in action!
 
